@@ -1,0 +1,11 @@
+﻿  Process.cpp
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(184,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(201,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(217,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(250,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(424,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(470,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(478,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(484): warning C4715: 'TestAsync': not all control paths return a value
+C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\Process\Process.cpp(430): warning C4715: 'TestSync': not all control paths return a value
+  Process.vcxproj -> C:\Users\Bojan\Desktop\[IKPuIS]\Projekat\IKP_Replication\ReplicationProject\x64\Debug\Process.exe
